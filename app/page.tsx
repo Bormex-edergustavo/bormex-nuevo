@@ -32,6 +32,8 @@ export default function Home() {
           <Btn href="/3d" label="3D" />
           <Btn href="/embalaje" label="EMBALAJE" />
           <Btn href="/producciones" label="PRODUCCIONES" />
+          <Btn href="/nuevo-souvenir" label="Agregar Souvenir" />
+          <Btn href="/nuevo-servicio" label="Agregar Servicio" />
         </div>
 
         <div className="mt-10 text-xs text-neutral-400">
